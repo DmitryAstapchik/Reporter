@@ -1,0 +1,67 @@
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Server\bin\Debug\Server.exe.config
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Server\bin\Debug\Server.exe
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Server\bin\Debug\Server.pdb
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Server\obj\Debug\MainWindow.baml
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Server\obj\Debug\MainWindow.g.cs
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Server\obj\Debug\App.g.cs
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Server\obj\Debug\Server_MarkupCompile.cache
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Server\obj\Debug\Server.g.resources
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Server\obj\Debug\Server.exe
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Server\obj\Debug\Server.pdb
+E:\Дима учеба\программирование\Network Programming\Reporter\Server\bin\Debug\Server.exe.config
+E:\Дима учеба\программирование\Network Programming\Reporter\Server\obj\Debug\Server.exe
+E:\Дима учеба\программирование\Network Programming\Reporter\Server\obj\Debug\Server.pdb
+E:\Дима учеба\программирование\Network Programming\Reporter\Server\bin\Debug\Server.exe
+E:\Дима учеба\программирование\Network Programming\Reporter\Server\bin\Debug\Server.pdb
+E:\Дима учеба\программирование\Network Programming\Reporter\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\Network Programming\Reporter\Server\obj\Debug\MainWindow.baml
+E:\Дима учеба\программирование\Network Programming\Reporter\Server\obj\Debug\MainWindow.g.cs
+E:\Дима учеба\программирование\Network Programming\Reporter\Server\obj\Debug\App.g.cs
+E:\Дима учеба\программирование\Network Programming\Reporter\Server\obj\Debug\Server_MarkupCompile.cache
+E:\Дима учеба\программирование\Network Programming\Reporter\Server\obj\Debug\Server.g.resources
+E:\Дима учеба\программирование\Network Programming\Reporter\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Дима учеба\программирование\Network Programming\Reporter\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\Network Programming\Screenshot sender\Server\bin\Debug\Server.exe.config
+E:\Дима учеба\программирование\Network Programming\Screenshot sender\Server\bin\Debug\Server.exe
+E:\Дима учеба\программирование\Network Programming\Screenshot sender\Server\bin\Debug\Server.pdb
+E:\Дима учеба\программирование\Network Programming\Screenshot sender\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\Network Programming\Screenshot sender\Server\obj\Debug\MainWindow.baml
+E:\Дима учеба\программирование\Network Programming\Screenshot sender\Server\obj\Debug\MainWindow.g.cs
+E:\Дима учеба\программирование\Network Programming\Screenshot sender\Server\obj\Debug\App.g.cs
+E:\Дима учеба\программирование\Network Programming\Screenshot sender\Server\obj\Debug\Server_MarkupCompile.cache
+E:\Дима учеба\программирование\Network Programming\Screenshot sender\Server\obj\Debug\Server.g.resources
+E:\Дима учеба\программирование\Network Programming\Screenshot sender\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Дима учеба\программирование\Network Programming\Screenshot sender\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\Network Programming\Screenshot sender\Server\obj\Debug\Server.exe
+E:\Дима учеба\программирование\Network Programming\Screenshot sender\Server\obj\Debug\Server.pdb
+E:\studying\programming\Network Programming\Screenshot sender\Server\bin\Debug\Server.exe.config
+E:\studying\programming\Network Programming\Screenshot sender\Server\bin\Debug\Server.exe
+E:\studying\programming\Network Programming\Screenshot sender\Server\bin\Debug\Server.pdb
+E:\studying\programming\Network Programming\Screenshot sender\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\studying\programming\Network Programming\Screenshot sender\Server\obj\Debug\MainWindow.baml
+E:\studying\programming\Network Programming\Screenshot sender\Server\obj\Debug\MainWindow.g.cs
+E:\studying\programming\Network Programming\Screenshot sender\Server\obj\Debug\App.g.cs
+E:\studying\programming\Network Programming\Screenshot sender\Server\obj\Debug\Server_MarkupCompile.cache
+E:\studying\programming\Network Programming\Screenshot sender\Server\obj\Debug\Server.g.resources
+E:\studying\programming\Network Programming\Screenshot sender\Server\obj\Debug\Server.Properties.Resources.resources
+E:\studying\programming\Network Programming\Screenshot sender\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\studying\programming\Network Programming\Screenshot sender\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\studying\programming\Network Programming\Screenshot sender\Server\obj\Debug\Server.exe
+E:\studying\programming\Network Programming\Screenshot sender\Server\obj\Debug\Server.pdb
+E:\Studying\programming\Network Programming\Reporter\Server\bin\Debug\Server.exe.config
+E:\Studying\programming\Network Programming\Reporter\Server\bin\Debug\Server.exe
+E:\Studying\programming\Network Programming\Reporter\Server\bin\Debug\Server.pdb
+E:\Studying\programming\Network Programming\Reporter\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Studying\programming\Network Programming\Reporter\Server\obj\Debug\MainWindow.baml
+E:\Studying\programming\Network Programming\Reporter\Server\obj\Debug\MainWindow.g.cs
+E:\Studying\programming\Network Programming\Reporter\Server\obj\Debug\App.g.cs
+E:\Studying\programming\Network Programming\Reporter\Server\obj\Debug\Server_MarkupCompile.cache
+E:\Studying\programming\Network Programming\Reporter\Server\obj\Debug\Server.g.resources
+E:\Studying\programming\Network Programming\Reporter\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Studying\programming\Network Programming\Reporter\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Studying\programming\Network Programming\Reporter\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Studying\programming\Network Programming\Reporter\Server\obj\Debug\Server.exe
+E:\Studying\programming\Network Programming\Reporter\Server\obj\Debug\Server.pdb

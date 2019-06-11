@@ -1,0 +1,26 @@
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Client\bin\Debug\Client.exe.config
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Client\bin\Debug\Client.exe
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Client\bin\Debug\Client.pdb
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Client\obj\Debug\Client.exe
+c:\users\st\documents\visual studio 2013\Projects\Reporter\Client\obj\Debug\Client.pdb
+E:\Дима учеба\программирование\Network Programming\Reporter\Client\bin\Debug\Client.exe.config
+E:\Дима учеба\программирование\Network Programming\Reporter\Client\obj\Debug\Client.exe
+E:\Дима учеба\программирование\Network Programming\Reporter\Client\obj\Debug\Client.pdb
+E:\Дима учеба\программирование\Network Programming\Reporter\Client\bin\Debug\Client.exe
+E:\Дима учеба\программирование\Network Programming\Reporter\Client\bin\Debug\Client.pdb
+E:\Дима учеба\программирование\Network Programming\Reporter\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\studying\programming\Network Programming\Screenshot sender\Client\bin\Debug\Client.exe.config
+E:\studying\programming\Network Programming\Screenshot sender\Client\bin\Debug\Client.exe
+E:\studying\programming\Network Programming\Screenshot sender\Client\bin\Debug\Client.pdb
+E:\studying\programming\Network Programming\Screenshot sender\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\studying\programming\Network Programming\Screenshot sender\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\studying\programming\Network Programming\Screenshot sender\Client\obj\Debug\Client.exe
+E:\studying\programming\Network Programming\Screenshot sender\Client\obj\Debug\Client.pdb
+E:\Studying\programming\Network Programming\Reporter\Client\bin\Debug\Client.exe.config
+E:\Studying\programming\Network Programming\Reporter\Client\bin\Debug\Client.exe
+E:\Studying\programming\Network Programming\Reporter\Client\bin\Debug\Client.pdb
+E:\Studying\programming\Network Programming\Reporter\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Studying\programming\Network Programming\Reporter\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Studying\programming\Network Programming\Reporter\Client\obj\Debug\Client.exe
+E:\Studying\programming\Network Programming\Reporter\Client\obj\Debug\Client.pdb

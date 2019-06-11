@@ -1,0 +1,35 @@
+﻿<Window x:Class="Server.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Server" Height="350" Width="245.47" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" SizeToContent="WidthAndHeight" Closed="Window_Closed">
+    <Grid x:Name="Grid" ShowGridLines="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Label Content="Interval:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBoxInterval" HorizontalAlignment="Left" Height="23" Margin="66,10,0,0" Text="5" VerticalAlignment="Top" Width="61" TabIndex="1"/>
+        <Label Content="sec" HorizontalAlignment="Left" Margin="132,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.5,0.478"/>
+        <Label Content="IP:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBoxIp" HorizontalAlignment="Left" Height="23" Margin="39,41,0,0" Text="127.0.0.1" VerticalAlignment="Top" Width="128" TabIndex="2"/>
+        <Label Content="Port:" HorizontalAlignment="Left" Margin="10,73,0,10" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBoxIpPort" HorizontalAlignment="Left" Height="23" Margin="49,73,0,0" Text="1000" VerticalAlignment="Top" Width="78" TabIndex="3"/>
+        <Label Content="E-mail:" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBoxEmail" HorizontalAlignment="Left" Height="23" Margin="59,10,10,0" Grid.Row="1" VerticalAlignment="Top" Width="168" TabIndex="4"/>
+        <Label Content="Password:" HorizontalAlignment="Left" Margin="10,42,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="0.55,0.087"/>
+        <Label Content="SMTP:" HorizontalAlignment="Left" Margin="10,73,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label Content="Port:" HorizontalAlignment="Left" Margin="10,104,0,10" Grid.Row="1" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBoxSmtp" HorizontalAlignment="Left" Height="23" Margin="56,73,0,0" Grid.Row="1" VerticalAlignment="Top" Width="171" TabIndex="6"/>
+        <TextBox x:Name="TextBoxSmtpPort" HorizontalAlignment="Left" Height="23" Margin="49,104,0,0" Grid.Row="1" VerticalAlignment="Top" Width="78" TabIndex="7"/>
+        <Button x:Name="ButtonStart" Content="Start" HorizontalAlignment="Left" Margin="10,12,0,10" Grid.Row="2" VerticalAlignment="Top" Width="75" Click="ButtonStart_Click" TabIndex="8"/>
+        <Button x:Name="ButtonStop" Content="Stop" HorizontalAlignment="Left" Margin="154,12,0,0" Grid.Row="2" VerticalAlignment="Top" Width="75" IsEnabled="False" Click="ButtonStop_Click" TabIndex="9"/>
+        <PasswordBox x:Name="PasswordBox" HorizontalAlignment="Left" Margin="75,42,0,0" Grid.Row="1" VerticalAlignment="Top" Width="151" TabIndex="5"/>
+        <StatusBar Grid.Row="3">
+            <Label Content="Screenshots sent:" Padding="5,0,0,0"/>
+            <Label x:Name="LabelCount" Padding="0" Content=""/>
+        </StatusBar>
+
+    </Grid>
+</Window>
